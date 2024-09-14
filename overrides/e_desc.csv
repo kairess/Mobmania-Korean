@@ -1,0 +1,976 @@
+3,0,Shoot 12 punches that deal 100 damage (7.5 attack speed) (2.5s cooldown). Dash every 4 punches.,100 데미지를 주는 펀치 12개 발사 (공격 속도 7.5) (쿨다운 2.5초). 4번째 펀치마다 대시.
+3,1,+4 punches (16).,+4 펀치 (16개).
+3,2,+1 attack speed (8.5).,+1 공격 속도 (8.5).
+3,3,+100 damage (200).,+100 데미지 (200).
+3,4,+4 punches (20).,+4 펀치 (20개).
+3,5,+1.5 attack speed (10).,+1.5 공격 속도 (10).
+3,6,+100 damage (300).,+100 데미지 (300).
+10,0,Taking damage grants +20% critical chance for 10s.,10초 동안 피해를 받으면 치명타 확률이 20% 증가합니다.
+10,1,+10% critical chance (+30%).,치명타 확률이 10% 추가로 증가합니다 (총 30%).
+10,2,+10% critical chance (+40%).,치명타 확률이 10% 추가로 증가합니다 (총 40%).
+11,0,+10% chance to grant move speed for 5s.,5초 동안 이동 속도를 증가시킬 확률 10% 증가.
+11,1,+10% chance (20%).,5초 동안 이동 속도를 증가시킬 확률 10% 증가 (총 20%).
+11,2,+10% chance (30%).,5초 동안 이동 속도를 증가시킬 확률 10% 증가 (총 30%).
+12,0,Gain 100 shield (max 100) (15s cooldown on hit).,100 보호막 획득 (최대 100) (피격 시 15초 쿨다운).
+12,1,-5s cooldown (10s).,쿨다운 5초 감소 (10초).
+12,2,+100 shield (max 200).,보호막 100 증가 (최대 200).
+14,0,Create a zone that lasts 5s and grants +20 attack (10s cooldown).,5초간 지속되는 영역을 생성하여 공격력 +20을 부여합니다 (쿨다운 10초).
+14,1,+10% size (110%). +20 attack (40).,+10% 크기 (110%). 공격력 +20 (40).
+14,2,+10% size (120%). +40 attack (80).,+10% 크기 (120%). 공격력 +40 (80).
+5,0,Shoot 3 shuriken that deal 100 damage (2s cooldown).,100 데미지를 주는 수리검 3개 발사 (쿨다운 2초).
+5,1,+50 damage (150).,+50 데미지 (150).
+5,2,-0.5s cooldown (1.5s).,쿨다운 0.5초 감소 (1.5초).
+5,3,+2 shuriken (5).,+2 수리검 (5개).
+5,4,+100 damage (250).,+100 데미지 (250).
+5,5,-0.5s cooldown (1.0s).,쿨다운 0.5초 감소 (1.0초).
+5,6,+2 shuriken (7).,+2 수리검 (7개).
+6,0,Summon a clone that mimics your skills dealing 20% damage.,당신의 스킬을 모방하는 분신을 소환합니다. 분신은 20%의 데미지를 줍니다.
+6,1,+10% damage (30%).,+10% 데미지 (30%).
+6,2,+20% damage (50%).,+20% 데미지 (50%).
+7,0,Shoot 1 large shuriken that deals 200 damage (3.5s cooldown).,200 데미지를 주는 대형 수리검 1개 발사 (쿨다운 3.5초).
+7,1,+100 damage (300).,+100 데미지 (300).
+7,2,+1 large shuriken (2).,+1 대형 수리검 (2개).
+8,0,15% chance to ignore damage and gain a burst of move speed.,15% 확률로 피해를 무시하고 순간적으로 이동 속도가 증가합니다.
+8,1,+10% chance (25%).,+10% 확률 증가 (25%).
+8,2,+10% chance (35%).,+10% 확률 증가 (35%).
+9,0,+10% critical chance.,치명타 확률 +10% 증가.
+9,1,+10% critical chance (+20%).,치명타 확률 +10% 증가 (총 +20%).
+9,2,+10% critical chance (+30%).,치명타 확률 +10% 증가 (총 +30%).
+16,0,Throw 3 syringes that poison dealing 50 damage (3s cooldown).,독을 주입하는 주사기 3개를 던져 50의 독 데미지를 줍니다 (쿨다운 3초).
+16,1,+50 poison damage (100).,+50 독 데미지 (총 100).
+16,2,+1 syringe (4).,+1 주사기 (총 4개).
+16,3,+100 poison damage (200).,+100 독 데미지 (총 200).
+16,4,+1 syringe (5).,+1 주사기 (총 5개).
+16,5,+100 poison damage (300).,+100 독 데미지 (총 300).
+16,6,-1s cooldown (2s).,-1초 쿨다운 (총 2초).
+17,0,+16px poison spread range (48px).,독 확산 범위 16px 증가 (48px).
+17,1,+16px poison spread range (64px).,독 확산 범위 16px 증가 (64px).
+17,2,+16px poison spread range (80px).,독 확산 범위 16px 증가 (80px).
+26,0,Spawn miasma that lasts 4s and grants invincibility while inside (15s cooldown).,"4초간 지속되는 독기를 생성하며, 내부에 있는 동안 무적 상태가 됩니다 (쿨다운 15초)."
+26,1,+1s duration (5s).,+1초 지속 시간 (5초).
+26,2,+1s duration (6s).,+1초 지속 시간 (6초).
+15,0,Spawn Milo that deals 100 damage and collects XP (16px).,100 데미지를 주고 경험치를 수집하는 밀로 소환 (16px).
+15,1,+100 damage (200). +16px pickup range (32px).,+100 데미지 (200). +16px 획득 범위 (32px).
+15,2,+100 damage (300). +16px pickup range (48px).,+100 데미지 (300). +16px 획득 범위 (48px).
+27,0,Enemies have a 2% chance on kill to drop a treat that heals 30 HP.,적을 처치할 때 2% 확률로 30 HP를 회복시키는 간식을 떨어뜨립니다.
+27,1,+1% chance (3%).,+1% 확률 (3%).
+27,2,+1% chance (4%).,+1% 확률 (4%).
+18,0,Throw a cup that creates a spill that deals 20 damage and lasts 5s (1.3 attack speed) (2.5s cooldown).,20 데미지를 주고 5초간 지속되는 웅덩이를 만드는 컵 던지기 (공격 속도 1.3) (쿨다운 2.5초).
+18,1,+10% size (110%).,+10% 크기 (110%).
+18,2,+20 damage (40).,+20 데미지 (40).
+18,3,+10% size (120%).,+10% 크기 (120%).
+18,4,+10 damage (50).,+10 데미지 (50).
+18,5,+20% size (140%).,+20% 크기 (140%).
+18,6,+10 damage (60).,+10 데미지 (60).
+19,0,Coffee can now critically hit. +15% critical chance.,커피가 이제 치명타를 입힐 수 있습니다. +15% 치명타 확률.
+19,1,+10% critical chance (25%).,+10% 치명타 확률 (25%).
+19,2,+10% critical chance (35%).,+10% 치명타 확률 (35%).
+20,0,+10% move speed.,이동 속도 +10% 증가.
+20,1,+10% move speed (+20%).,이동 속도 +10% 증가 (총 20%).
+20,2,+10% move speed (+30%).,이동 속도 +10% 증가 (총 30%).
+21,0,Walk on Coffee to gain a mood stack (max 4) that lasts 3s. Each stack reduces Coffee's cooldown by 0.25s.,커피 위를 걸어 기분 스택을 얻습니다(최대 4개). 스택은 3초간 지속됩니다. 각 스택은 커피의 쿨다운을 0.25초 감소시킵니다.
+21,1,+1 duration (4s).,+1초 지속 시간 (4초).
+21,2,+1 duration (5s).,+1초 지속 시간 (5초).
+22,0,+0.7 Coffee attack speed (2).,커피 공격 속도 +0.7 (2).
+22,1,+0.7 Coffee attack speed (2.7).,커피 공격 속도 +0.7 (2.7).
+22,2,+0.7 Coffee attack speed (3.4).,커피 공격 속도 +0.7 (3.4).
+23,0,Shoot 1 tornado that deals 100 damage then idles dealing 50% damage over time (2.5s cooldown).,100 데미지를 주는 토네이도 1개 발사 후 시간 경과에 따라 50% 데미지 지속 (쿨다운 2.5초).
+23,1,+100 damage (200).,+100 데미지 (200).
+23,2,+10% size (110%).,+10% 크기 (110%).
+23,3,+1 tornado (2). -0.25s cooldown (2.25 cooldown).,+1 토네이도 (2개). -0.25초 쿨다운 (쿨다운 2.25초).
+23,4,+100 damage (300).,+100 데미지 (300).
+23,5,+10% size (120%).,+10% 크기 (120%).
+23,6,+1 tornado (3). -0.25s cooldown (2.00 cooldown).,+1 토네이도 (3개). -0.25초 쿨다운 (쿨다운 2.00초).
+24,0,Create a field of ice that slows enemies (2.5s cooldown).,적들을 감속시키는 얼음 지대 생성 (쿨다운 2.5초).
+24,1,+10% size (110%).,+10% 크기 (110%).
+24,2,+10% size (120%).,+10% 크기 (120%).
+25,0,Create a zone that stuns enemies (5s cooldown).,적들을 기절시키는 구역 생성 (쿨다운 5초).
+25,1,+50 damage (50). +20% size (120%). ,+50 데미지 (50). +20% 크기 (120%).
+25,2,+50 damage (100). +20% size (140%). ,+50 데미지 (100). +20% 크기 (140%).
+37,0,Spawn fairy that creates a zone that heals 10 HP (15s cooldown).,요정을 소환하여 10 HP를 회복시키는 영역 생성 (쿨다운 15초).
+37,1,-5s cooldown (10s).,쿨다운 -5초 (10초).
+37,2,Heal +10 HP (20 HP).,회복량 +10 HP (20 HP).
+2,0,Increase the size of everything by 10%.,모든 것의 크기를 10% 증가시킵니다.
+2,1,+10% size of everything (+20%).,모든 것의 크기를 10% 추가로 증가시킵니다 (총 20%).
+2,2,+10% size of everything (+30%).,모든 것의 크기를 10% 추가로 증가시킵니다 (총 30%).
+0,0,Slash twice dealing 100 damage (2s cooldown).,100 데미지를 주는 베기 2회 발동 (쿨다운 2초).
+0,1,+50 damage (150).,+50 데미지 (150).
+0,2,+25% size (125%).,+25% 크기 (125%).
+0,3,+2 slashes (4).,+2회 베기 (4회).
+0,4,+50 damage (200).,+50 데미지 (200).
+0,5,+25% size (150%).,+25% 크기 (150%).
+0,6,+2 slashes (6).,+2회 베기 (6회).
+31,0,+50 attack.,공격력 +50 증가.
+31,1,+50 attack (100).,공격력 +50 증가 (총 100).
+31,2,+50 attack (150).,공격력 +50 증가 (총 150).
+34,0,Slash now marks enemies (max 2). Heal 10 HP if the mark is killed.,슬래시가 이제 적을 표식합니다(최대 2개). 표식된 적을 처치하면 체력 10을 회복합니다.
+34,1,+2 mark limit (max 4).,표식 제한 +2개(최대 4개).
+34,2,+2 mark limit (max 6).,표식 제한 +2개(최대 6개).
+32,0,Create a zone where enemies take 10% more damage.,적들이 10% 더 많은 피해를 받는 구역 생성.
+32,1,+10% damage (+20%).,+10% 피해량 (총 20%).
+32,2,+10% damage (+30%).,+10% 피해량 (총 30%).
+33,0,Spawn Mai Tai that deals 100 damage and collects XP.,100 데미지를 주고 경험치를 수집하는 마이타이 소환.
+33,1,+100 damage (200). +20% size (120%).,+100 데미지 (200). +20% 크기 (120%).
+33,2,+100 damage (300). +20% size (140%).,+100 데미지 (300). +20% 크기 (140%).
+4,0,Shoot 5 bullets that deal 100 damage (5 attack speed) (2.5s cooldown).,100 데미지를 주는 총알 5발 발사 (공격 속도 5) (쿨다운 2.5초).
+4,1,+50 damage (150).,+50 데미지 (150).
+4,2,+5 bullets (10).,+5발 총알 (10발).
+4,3,+50 damage (200).,+50 데미지 (200).
+4,4,+5 bullets (15).,+5발 총알 (15발).
+4,5,+50 damage (250).,+50 데미지 (250).
+4,6,+50 damage (300).,+50 데미지 (300).
+44,0,Bullets can hit +1 enemy (2x).,탄환이 적 1명을 추가로 관통 (2회).
+44,1,+1 enemy hit (3x).,적 1명을 추가로 관통 (3회).
+44,2,+1 enemy hit (4x).,적 1명을 추가로 관통 (4회).
+45,0,+2.5 Rifle attack speed (7.5).,소총 공격 속도 +2.5 (7.5)
+45,1,+1.0 Rifle attack speed (8.5).,소총 공격 속도 +1.0 (8.5)
+45,2,+1.5 Rifle attack speed (10).,소총 공격 속도 +1.5 (10)
+46,0,+20% reload speed.,재장전 속도 20% 증가.
+46,1,+25% reload speed (+45%).,재장전 속도 25% 증가 (총 45%).
+46,2,+30% reload speed (+75%).,재장전 속도 30% 증가 (총 75%).
+47,0,Gain +20% move speed for 1s when using Rifle.,소총 사용 시 1초간 이동 속도 +20% 증가.
+47,1,+10% move speed (+30%).,이동 속도 +10% 증가 (총 +30%).
+47,2,+10% move speed (+40%).,이동 속도 +10% 증가 (총 +40%).
+49,0,Stab 3 times each dealing 100 damage (2.5s cooldown).,100 데미지를 주는 찌르기 3회 발사 (쿨다운 2.5초).
+49,1,-0.25s cooldown (2.25s).,쿨다운 0.25초 감소 (2.25초).
+49,2,+2 stabs (5).,+2회 찌르기 (5회).
+49,3,+50 damage (150).,+50 데미지 (150).
+49,4,-0.25s cooldown (2s).,쿨다운 0.25초 감소 (2초).
+49,5,+50 damage (200).,+50 데미지 (200).
+49,6,+2 stabs (7).,+2회 찌르기 (7회).
+50,0,Heal 20 HP (20s cooldown).,체력 20을 회복 (쿨다운 20초).
+50,1,+10 HP (30). -2s cooldown (18s).,체력 30 회복. 쿨다운 2초 감소 (18초).
+50,2,+20 HP (50). -3s cooldown (15s).,체력 50 회복. 쿨다운 3초 감소 (15초).
+51,0,Rotate a spear dealing 50 damage periodically after using Furry Swipes.,맹렬한 휘두르기 사용 후 창을 회전시켜 주기적으로 50 데미지를 줍니다.
+51,1,+10% size (110%).,+10% 크기 (110%).
+51,2,+50 damage (100).,+50 데미지 (100).
+52,0,Right click/trigger to dash in the direction of movement (8s cooldown). Dashing will also trigger Cat Pose.,우클릭/트리거로 이동 방향으로 대시합니다 (쿨다운 8초). 대시 시 고양이 자세도 함께 취합니다.
+52,1,-1s cooldown (7s).,쿨다운 -1초 (7초).
+52,2,-2s cooldown (5s).,쿨다운 -2초 (5초).
+59,0,Throw tools (1.75s cooldown). Hammer explodes dealing 200 damage. Screwdriver knocks back. Cables shock dealing 100 damage. Wrench stuns.,도구 던지기 (쿨다운 1.75초). 망치는 폭발하여 200 데미지를 줍니다. 드라이버는 밀쳐냅니다. 전선은 감전시켜 100 데미지를 줍니다. 렌치는 기절시킵니다.
+59,1,Hammer: +100 damage (300). Cables: +100 damage (200).,망치: +100 데미지 (300). 전선: +100 데미지 (200).
+59,2,+25% size (125%).,크기 25% 증가 (125%).
+59,3,-0.25s cooldown (1.5s).,쿨다운 0.25초 감소 (1.5초).
+59,4,Hammer: +150 damage (450). Cables: +100 damage (300).,망치: +150 데미지 (450). 전선: +100 데미지 (300).
+59,5,+25% size (150%).,크기 25% 증가 (150%).
+59,6,-0.25s cooldown (1.25s).,쿨다운 0.25초 감소 (1.25초).
+60,0,+5% XP.,경험치 5% 증가.
+60,1,+5% XP (+10%).,경험치 5% 증가 (총 10%).
+60,2,+5% XP (+15%).,경험치 5% 증가 (총 15%).
+61,0,Gain +30 attack and -40% move speed for 10s (30s cooldown).,10초 동안 공격력 +30 및 이동 속도 -40% 획득 (쿨다운 30초).
+61,1,+10% move speed (-30%).,이동 속도 +10% (-30%).
+61,2,+10% move speed (-20%).,이동 속도 +10% (-20%).
+62,0,Surround yourself with 3 tools that deal 100 damage and knockback (6s cooldown).,100 데미지와 넉백을 주는 3개의 도구로 자신을 둘러싸기 (쿨다운 6초).
+62,1,+1 tool (4). +100 damage (200). +25% size (125%).,+1 도구 (4개). +100 데미지 (200). +25% 크기 (125%).
+62,2,+1 tool (5). +100 damage (300). +25% size (150%).,+1 도구 (5개). +100 데미지 (300). +25% 크기 (150%).
+63,0,Spawn Wifey that deals 100 damage and applies bleed.,100 데미지를 주고 출혈을 일으키는 와이피를 소환합니다.
+63,1,+10% size (110%). +50 damage (150).,+10% 크기 (110%). +50 데미지 (150).
+63,2,+10% size (120%). +50 damage (200).,+10% 크기 (120%). +50 데미지 (200).
+64,0,Slash dealing 100 damage (1.5s cooldown). Hits at the tip have 100% critical chance.,100 데미지를 주는 베기 공격 (쿨다운 1.5초). 칼끝에 맞으면 100% 치명타 확률.
+64,1,+50 damage (150).,+50 데미지 (150).
+64,2,-0.25s cooldown (1.25s).,-0.25초 쿨다운 (1.25초).
+64,3,+50% critical damage (+50%).,+50% 치명타 데미지 (+50%).
+64,4,+50 damage (200).,+50 데미지 (200).
+64,5,-0.25s cooldown (1s).,-0.25초 쿨다운 (1초).
+64,6,+50% critical damage (+100%).,+50% 치명타 데미지 (+100%).
+65,0,+10% move speed. Critical hits with Tipper grant +100% move speed for 0.25s.,이동 속도 +10%. 팁퍼로 치명타를 입히면 0.25초 동안 이동 속도 +100%.
+65,1,+10% move speed (+20%),이동 속도 +10% (+20%)
+65,2,+10% move speed (+30%),이동 속도 +10% (+30%)
+66,0,+5% critical damage.,치명타 피해 +5% 증가.
+66,1,+10% critical damage (+15%).,치명타 피해 +10% 증가 (총 +15%).
+66,2,+15% critical damage (+25%).,치명타 피해 +15% 증가 (총 +25%).
+67,0,+5% boss damage.,보스 데미지 +5% 증가.
+67,1,+5% boss damage (+10%).,보스 데미지 +10% 증가.
+67,2,+5% boss damage (+15%).,보스 데미지 +15% 증가.
+68,0,+1 Tipper swing. Critical hits with Tipper cause additional strikes to always critically strike. ,68.0 데미지의 팁퍼 스윙. 팁퍼로 치명타를 입히면 이후의 추가 공격이 항상 치명타로 적중합니다.
+68,1,+1 Tipper swing (+2).,68.1 데미지의 팁퍼 스윙 (+2).
+68,2,+1 Tipper swing (+3).,68.2 데미지의 팁퍼 스윙 (+3).
+69,0,Shoot 7 arrows that deal 40 damage (2s cooldown).,40 데미지를 주는 화살 7개 발사 (쿨다운 2초).
+69,1,+30 damage (70).,+30 데미지 (70).
+69,2,-0.5s cooldown (1.5s).,쿨다운 0.5초 감소 (1.5초).
+69,3,+3 arrows (10).,+3 화살 (10개).
+69,4,+30 damage (100).,+30 데미지 (100).
+69,5,-0.5s cooldown (1.0s).,쿨다운 0.5초 감소 (1.0초).
+69,6,+3 arrows (13).,+3 화살 (13개).
+70,0,Arrow Barrage's last arrow explodes dealing 300% damage to nearby enemies.,화살 폭풍의 마지막 화살이 폭발하여 주변 적들에게 300% 데미지를 줍니다.
+70,1,+20% size (120%).,+20% 크기 (120%).
+70,2,+30% size (150%).,+30% 크기 (150%).
+71,0,Arrows now burn for 2s.,화살이 2초 동안 불타오릅니다.
+71,1,+2 burn duration (4s).,+2초 연소 지속 시간 (4초).
+71,2,+2 burn duration (6s).,+2초 연소 지속 시간 (6초).
+72,0,Gain +40% move speed while casting Arrow Barrage.,화살 폭풍 시전 중 이동 속도 40% 증가.
+72,1,+20% move speed (+60%).,이동 속도 20% 추가 증가 (총 60%).
+72,2,+20% move speed (+80%).,이동 속도 20% 추가 증가 (총 80%).
+73,0,Arrows rain down that deal 100 damage on the nearest enemy for 5s (10s cooldown).,5초 동안 가장 가까운 적에게 100 데미지를 주는 화살비를 내립니다 (쿨다운 10초).
+73,1,+100 damage (200).,+100 데미지 (200).
+73,2,+100 damage (300).,+100 데미지 (300).
+104,0,6 soldiers converge on your cursor that deal 20 damage.,커서 위치로 20 데미지를 주는 6명의 병사들이 집결합니다.
+104,1,+2 soldiers (8).,+2명의 병사 (총 8명).
+104,2,+2 soldiers (10).,+2명의 병사 (총 10명).
+104,3,+2 soldiers (12).,+2명의 병사 (총 12명).
+104,4,+2 soldiers (14).,+2명의 병사 (총 14명).
+104,5,+2 soldiers (16).,+2명의 병사 (총 16명).
+104,6,+4 soldiers (20).,+4명의 병사 (총 20명).
+105,0,Soldiers move to the command point 20% faster.,병사들이 지휘 지점으로 20% 더 빠르게 이동합니다.
+105,1,+20% soldier move speed (140%).,+20% 병사 이동 속도 (140%).
+105,2,+10% soldier move speed (150%).,+10% 병사 이동 속도 (150%).
+106,0,+20 soldier damage (40).,병사 데미지 +20 증가 (40).
+106,1,+20 soldier damage (60).,병사 데미지 +20 증가 (60).
+106,2,+20 soldier damage (80).,병사 데미지 +20 증가 (80).
+107,0,Soldiers attack faster for 2s (10s cooldown).,병사들의 공격 속도가 2초간 증가합니다 (쿨다운 10초).
+107,1,+1s duration (3s).,+1초 지속 시간 (3초).
+107,2,+1s duration (4s).,+1초 지속 시간 (4초).
+108,0,Gain 25 shield (max 100) when with your soldiers (1s cooldown).,병사들과 함께 있을 때 25의 보호막 획득 (최대 100) (쿨다운 1초).
+108,1,+100 max shield (200).,+100 최대 보호막 (200).
+108,2,+100 max shield (300).,+300 최대 보호막 (300).
+79,0,Create an explosion at your cursor that deals 50 burn damage for 5s (2s cooldown).,커서 위치에 폭발을 일으켜 5초 동안 50의 화상 피해를 줍니다 (쿨다운 2초).
+79,1,+50 burn damage (100).,+50 화상 피해 (100).
+79,2,+25% size (125%).,+25% 크기 (125%).
+79,3,-0.25s cooldown (1.75s).,-0.25초 쿨다운 (1.75초).
+79,4,+100 burn damage (200).,+100 화상 피해 (200).
+79,5,+25% size (150%).,+25% 크기 (150%).
+79,6,-0.25s cooldown (1.5s).,-0.25초 쿨다운 (1.5초).
+80,0,Create oil spills can be lit to deal 20 burn damage and burn enemies for 5s (2.5s cooldown).,기름 웅덩이를 생성합니다. 점화 시 20의 화상 피해를 주고 적을 5초간 불태웁니다 (쿨다운 2.5초).
+80,1,+30 damage (50). +20% size (120%).,+30 피해 (50). +20% 크기 (120%).
+80,2,+50 damage (100). +20% size (140%).,+50 피해 (100). +20% 크기 (140%).
+81,0,Place fire that deals 20 burn damage and lasts 2s (0.25s cooldown). The fire burns enemies for 5s,20의 화상 피해를 주는 불을 설치하며 2초간 지속됩니다 (쿨다운 0.25초). 불은 적을 5초 동안 태웁니다.
+81,1,+30 burn damage (50),+30 화상 피해 (50)
+81,2,+50 burn damage (100),+50 화상 피해 (100)
+82,0,Emit a ring of fire that deals 100 burn damage and burns nearby enemies for 5s (7s cooldown).,100의 화상 데미지를 주고 주변 적들을 5초간 불태우는 불의 고리 발사 (쿨다운 7초).
+82,1,+50 damage (150). +50% size (150%).,+50 데미지 (150). +50% 크기 (150%).
+82,2,+50 damage (200). -2s cooldown (5s).,+50 데미지 (200). -2초 쿨다운 (5초).
+83,0,5 meteors fall that deal 100 damage and burn enemies for 5s (7s cooldown).,100 데미지를 주고 적을 5초 동안 불태우는 유성 5개 낙하 (쿨다운 7초).
+83,1,+5 meteors (15). +50 damage (150).,+5 유성 (15개). +50 데미지 (150).
+83,2,+5 meteors (20). +50 damage (200).,+5 유성 (20개). +50 데미지 (200).
+111,0,Emit 8 turons that deal 100 damage (2.5s cooldown).,100 데미지를 주는 투론 8개 발사 (쿨다운 2.5초).
+111,1,+100 damage (200).,+100 데미지 (200).
+111,2,+25% size (125%).,+25% 크기 (125%).
+111,3,-0.5s cooldown (2s).,-0.5초 쿨다운 (2초).
+111,4,+100 damage (300).,+100 데미지 (300).
+111,5,+25% size (150%).,+25% 크기 (150%).
+111,6,-0.5s cooldown (1.5s).,-0.5초 쿨다운 (1.5초).
+112,0,Turon now slow enemies for 1s.,투론이 이제 적을 1초간 감속시킵니다.
+112,1,+1s slow duration (2s).,+1초 감속 지속시간 (2초).
+112,2,+1s slow duration (3s).,+1초 감속 지속시간 (3초).
+113,0,Taking damage emits a shockwave that knocks back enemies.,피해를 받으면 적을 밀쳐내는 충격파를 방출합니다.
+113,1,+15% knockback (115%).,+15% 밀쳐내기 (115%).
+113,2,+15% knockback (130%).,+15% 밀쳐내기 (130%).
+114,0,+10 defense.,방어력 10 증가.
+114,1,+10 defense (+20).,방어력 20 증가.
+114,2,+10 defense (+30).,방어력 30 증가.
+115,0,Spawn Richie that deals 100 damage and collects XP.,100 데미지를 주고 경험치를 수집하는 리치 소환.
+115,1,+100 damage (200). +16px pickup range (+32px).,+100 데미지 (200). +16px 획득 범위 (+32px).
+115,2,+100 damage (300). +16px pickup range (+48px).,+100 데미지 (300). +16px 획득 범위 (+48px).
+127,0,Stab 4 times each dealing 100 damage (7.5 attack speed) (2.5s cooldown).,100 데미지를 주는 찌르기 4회 발사 (공격 속도 7.5) (쿨다운 2.5초).
+127,1,+100 damage (200).,+100 데미지 (200).
+127,2,-0.25s cooldown (2.25s).,-0.25초 쿨다운 (2.25초).
+127,3,+2 stabs (6).,+2회 찌르기 (6회).
+127,4,+100 damage (300).,+100 데미지 (300).
+127,5,-0.25s cooldown (2s).,-0.25초 쿨다운 (2초).
+127,6,+2 stabs (8).,+2회 찌르기 (8회).
+128,0,Summon a shadow that lasts 5s (8s cooldown). Right click/trigger to swap places.,5초 동안 지속되는 그림자 소환 (쿨다운 8초). 우클릭/트리거로 위치 교체.
+128,1,+1 shadow (2).,+1 그림자 (총 2개).
+128,2,+1 shadow (3).,+1 그림자 (총 3개).
+129,0,+25% move speed for 0.5s after using Backstab. Reactivates after casting Shadow Step.,백스탭 사용 후 0.5초 동안 이동 속도 25% 증가. 그림자 걸음 시전 후 재활성화.
+129,1,+25% move speed (+50%).,이동 속도 25% 추가 증가 (총 50%).
+129,2,+25% move speed (+75%).,이동 속도 25% 추가 증가 (총 75%).
+130,0,+1.5 Backstab attack speed (8.5).,기습 공격 속도 +1.5 (8.5)
+130,1,+1.5 Backstab attack speed (10).,기습 공격 속도 +1.5 (10)
+130,2,+2 Backstab attack speed (12).,기습 공격 속도 +2 (12)
+131,0,Unleash a barrage of attacks each dealing 100 damage (6s cooldown). Reactivates after casting Shadow Step.,100 데미지를 주는 연속 공격을 퍼붓습니다 (쿨다운 6초). 그림자 걸음 사용 후 재사용 가능.
+131,1,+100 damage (200).,+100 데미지 (200).
+131,2,+100 damage (300).,+100 데미지 (300).
+133,0,Throw 3 sharps that deal 100 damage and return together (2 attack speed) (2s cooldown).,100 데미지를 주는 날카로운 무기 3개를 던진 후 함께 돌아옴 (공격 속도 2) (쿨다운 2초).
+133,1,+100 damage (200).,+100 데미지 (200).
+133,2,+20% critical chance (20%).,+20% 치명타 확률 (20%).
+133,3,+2 sharps (5).,+2 날카로운 무기 (5개).
+133,4,+100 damage (300).,+100 데미지 (300).
+133,5,+20% critical chance (40%).,+20% 치명타 확률 (40%).
+133,6,+2 sharps (7).,+2 날카로운 무기 (7개).
+134,0,Sharps stuns enemies for 1s on the way back.,샤프가 돌아오는 길에 적들을 1초간 기절시킵니다.
+134,1,+1s stun duration (2s).,+1초 기절 지속시간 (2초).
+134,2,+1s stun duration (3s).,+1초 기절 지속시간 (3초).
+135,0,+25% move speed for 0.5s after using Sharps.,샤프 사용 후 0.5초 동안 이동 속도 25% 증가.
+135,1,+0.25s duration (0.75s).,지속 시간 0.25초 증가 (0.75초).
+135,2,+0.25s duration (1s).,지속 시간 0.25초 추가 증가 (1초).
+136,0,Spawn Ragi that bites with a 1% chance heal 30 HP.,1% 확률로 30 HP를 회복시키는 물기 공격을 하는 라기를 소환합니다.
+136,1,+1% chance (2%).,+1% 확률 증가 (2%).
+136,2,+1% chance (3%).,+1% 확률 증가 (3%).
+137,0,+0.4 Sharps attack speed (2.4).,샤프 공격 속도 +0.4 (2.4).
+137,1,+0.6 Sharps attack speed (3).,샤프 공격 속도 +0.6 (3).
+137,2,+3 Sharps attack speed (6).,샤프 공격 속도 +3 (6).
+138,0,Spawn 6 swords that deal 50 damage and converge on the initial cursor position (2s cooldown).,초기 커서 위치로 모이는 50 데미지의 검 6개 소환 (쿨다운 2초).
+138,1,+50 damage (100).,+50 데미지 (100).
+138,2,+15% critical chance (15%).,+15% 치명타 확률 (15%).
+138,3,+2 swords (8).,+2 검 (8개).
+138,4,+100 damage (200).,+100 데미지 (200).
+138,5,+15% critical chance (30%).,+15% 치명타 확률 (30%).
+138,6,+2 swords (10).,+2 검 (10개).
+139,0,+10% critical chance.,치명타 확률 +10% 증가.
+139,1,+10% critical chance (+20%).,치명타 확률 +10% 증가 (총 20%).
+139,2,+10% critical chance (+30%).,치명타 확률 +10% 증가 (총 30%).
+140,0,Landing 5 crits with Swordstorm grants +25% move speed for 1s.,검폭풍으로 5회 치명타를 입히면 1초 동안 이동 속도가 25% 증가합니다.
+140,1,+25% move speed (+50%).,이동 속도 25% 추가 증가 (총 50%).
+140,2,+25% move speed (+75%).,이동 속도 25% 추가 증가 (총 75%).
+141,0,Swordstorm now marks targets. Marked targets take +50% damage from future Swordstorms.,검풍이 이제 대상을 표식합니다. 표식된 대상은 이후 검풍으로부터 +50% 추가 피해를 받습니다.
+141,1,+10% damage (+60%).,+10% 피해 (+60%).
+141,2,+10% damage (+70%).,+10% 피해 (+70%).
+142,0,Spawn a sword that deals 100 damage.,100 데미지를 주는 검 1개 소환.
+142,1,+2 swords (3). +100 damage (200).,검 2개 추가 소환 (총 3개). 데미지 100 증가 (200).
+142,2,+2 swords (5). +100 damage (300).,검 2개 추가 소환 (총 5개). 데미지 100 증가 (300).
+144,0,Throw a football that deals 100 damage.,100 데미지를 주는 미식축구공 던지기.
+144,1,+100 damage (200).,+100 데미지 (200).
+144,2,+10% size (110%).,+10% 크기 (110%).
+144,3,+100 damage (300).,+100 데미지 (300).
+144,4,+10% size (120%).,+10% 크기 (120%).
+144,5,+100 damage (400).,+100 데미지 (400).
+144,6,+10% size (130%).,+10% 크기 (130%).
+145,0,Recovering the football grants +25% move speed.,풋볼을 회수하면 이동 속도가 25% 증가합니다.
+145,1,+25% move speed (+50%).,이동 속도 25% 추가 증가 (총 50%).
+145,2,+25% move speed (+75%).,이동 속도 25% 추가 증가 (총 75%).
+146,0,Recovering the football grants invincibility for 2s and enables tackle that deals 100% Football's damage for 1s.,축구공을 회수하면 2초간 무적 상태가 되고 1초 동안 축구공 데미지의 100%를 주는 태클을 사용할 수 있습니다.
+146,1,+0.5s invincibility duration (2.5s). 0.5s tackle duration (1.5s).,무적 지속 시간 0.5초 증가 (2.5초). 태클 지속 시간 0.5초 증가 (1.5초).
+146,2,+0.5s invincibility duration (3s). 0.5s tackle duration (2s).,무적 지속 시간 0.5초 추가 증가 (3초). 태클 지속 시간 0.5초 추가 증가 (2초).
+147,0,Summon a lineman that deals 100% Football's damage and knocks back enemies from the football before it lands.,풋볼이 착지하기 전에 풋볼 데미지의 100%를 주고 적을 밀쳐내는 라인맨을 소환합니다.
+147,1,+1 lineman (2).,+1 라인맨 (총 2명).
+147,2,+1 lineman (3).,+1 라인맨 (총 3명).
+148,0,Spawn Dior that collects XP.,경험치를 수집하는 디오르 소환.
+148,1,+10% move speed.,+10% 이동 속도.
+148,2,+10% move speed.,+10% 이동 속도.
+158,0,Shoot 12 bullets that deal 100 damage and ricochet (2x) up to 45 degrees (2 attack speed) (2.5s cooldown).,100 데미지를 주고 최대 45도로 2번 튕기는 총알 12발 발사 (공격 속도 2) (쿨다운 2.5초).
+158,1,+100 damage (200).,+100 데미지 (200).
+158,2,+1 attack speed (3).,+1 공격 속도 (3).
+158,3,+2 ricochet per bullet (4x).,+2 총알당 튕김 횟수 (4번).
+158,4,+100 damage (300).,+100 데미지 (300).
+158,5,-0.75s cooldown (2.5s).,-0.75초 쿨다운 (2.5초).
+158,6,+2 ricochet per bullet (6x).,+2 총알당 튕김 횟수 (6번).
+159,0,+15 degree ricochet angle (+15 degrees).,리코셰 각도 15도 증가 (+15도).
+159,1,+15 degree ricochet angle (+30 degrees).,리코셰 각도 15도 증가 (+30도).
+159,2,+15 degree ricochet angle (+45 degrees).,리코셰 각도 15도 증가 (+45도).
+160,0,Throw a flashbang that stuns for 0.5s and slows for 1.75s after using all bullets.,모든 총알을 사용한 후 섬광탄을 던져 0.5초 동안 기절시키고 1.75초 동안 감속시킵니다.
+160,1,+0.25s stun duration (0.75s). +0.25s slow duration (2s).,+0.25초 기절 지속시간 (0.75초). +0.25초 감속 지속시간 (2초).
+160,2,+0.25s stun duration (1s). +0.25s slow duration (2.25s).,+0.25초 기절 지속시간 (1초). +0.25초 감속 지속시간 (2.25초).
+161,0,+25% move speed for 0.5s after using all bullets.,모든 탄환을 사용한 후 0.5초 동안 이동 속도 25% 증가.
+161,1,+25% move speed (+50%).,이동 속도 25% 추가 증가 (총 50%).
+161,2,+25% move speed (+75%).,이동 속도 25% 추가 증가 (총 75%).
+162,0,Create a barrage of bullets around you for 0.4s after using all bullets.,모든 총알을 사용한 후 0.4초 동안 주변에 탄막을 형성합니다.
+162,1,+0.4s duration (0.8s),+0.4초 지속 시간 (0.8초)
+162,2,+0.4s duration (1.2s).,+0.4초 지속 시간 (1.2초)
+168,0,Bite 1 time in front of you dealing 100 damage (2.5s cooldown).,전방에 100 데미지를 주는 물기 1회 시전 (쿨다운 2.5초).
+168,1,+1 bite (2).,+1회 물기 (2회).
+168,2,-0.25s cooldown (2.25s).,-0.25초 쿨다운 (2.25초).
+168,3,+100 damage (200).,+100 데미지 (200).
+168,4,+2 bites (4).,+2회 물기 (4회).
+168,5,-0.25s cooldown (2.00s).,-0.25초 쿨다운 (2.00초).
+168,6,+100 damage (300).,+100 데미지 (300).
+169,0,Spawn 3 Bats that attack nearby enemies dealing 100 damage (2s cooldown).,주변의 적을 공격하여 100 데미지를 주는 박쥐 3마리 소환 (쿨다운 2초).
+169,1,+3 Bats (6).,+3 박쥐 (6마리).
+169,2,+3 Bats (9).,+3 박쥐 (9마리).
+170,0,After avoiding damage for 10 seconds gain 1 blood barrier negating all damage (max 1) (10s cooldown).,10초 동안 피해를 받지 않으면 모든 피해를 무효화하는 혈액 장벽 1개 획득 (최대 1개) (쿨다운 10초).
+170,1,+1 blood barrier limit (max 2).,혈액 장벽 한도 +1 (최대 2개).
+170,2,+1 blood barrier limit (max 3).,혈액 장벽 한도 +1 (최대 3개).
+171,0,Fangs will heal 1% of its damage value if at least one enemy is hit.,적어도 하나의 적을 명중시키면 송곳니가 자신의 피해량의 1%만큼 체력을 회복합니다.
+171,1,+2% healing (3%).,+2% 회복량 (3%).
+171,2,+2% healing (5%).,+2% 회복량 (5%).
+172,0,Right click/trigger to transform between Bat and Human form (Bat: +25% movespeed / Fangs gains +20% size and +200 damage).,우클릭/트리거로 박쥐와 인간 형태를 변신 (박쥐: 이동 속도 +25% / 송곳니 크기 +20% 및 데미지 +200).
+172,1,+25% movespeed (50%) and +15% size (135%).,이동 속도 +25% (50%) 및 크기 +15% (135%).
+172,2,+25% movespeed (75%) and +15% size (150%).,이동 속도 +25% (75%) 및 크기 +15% (150%).
+173,0,Drill dealing 20 damage (2s cooldown).,20 데미지를 주는 드릴 공격 (쿨다운 2초).
+173,1,+20 damage (40).,+20 데미지 (40).
+173,2,+5 attacks (20).,+5회 공격 (20회).
+173,3,-0.25s cooldown (1.75s).,-0.25초 쿨다운 (1.75초).
+173,4,+20 damage (60).,+20 데미지 (60).
+173,5,+5 attacks (25).,+5회 공격 (25회).
+173,6,-0.25s cooldown (1.5s).,-0.25초 쿨다운 (1.5초).
+174,0,Using Drill 5 times briefly grants +20 attack and +10% haste.,드릴을 5회 짧게 사용하면 공격력 +20과 가속 +10%를 획득합니다.
+174,1,+20 attack (+40). +10% haste (+20%).,공격력 +20 추가 (총 +40). 가속 +10% 추가 (총 +20%).
+174,2,+20 attack (+60). +10% haste (+30%).,공격력 +20 추가 (총 +60). 가속 +10% 추가 (총 +30%).
+175,0,Emit 8 rockets that deal 50 damage (5s cooldown).,50 데미지를 주는 로켓 8발 발사 (쿨다운 5초).
+175,1,+8 rockets (16).,+8 로켓 (16발).
+175,2,+8 rockets (24).,+8 로켓 (24발).
+176,0,Moving in the same direction builds thrust. Gain move speed at maximum thrust. Changing direction loses thrust.,같은 방향으로 움직이면 추진력이 쌓입니다. 최대 추진력에 도달하면 이동 속도가 증가합니다. 방향을 바꾸면 추진력이 감소합니다.
+176,1,Increased thrust speed.,추진력 증가 속도가 향상됩니다.
+176,2,Increased thrust speed.,추진력 증가 속도가 더욱 향상됩니다.
+177,0,Generic weapons that create multiple projectiles will create 18% more.,다중 발사체를 생성하는 일반 무기가 18% 더 많은 발사체를 생성합니다.
+177,1,+6% projectiles (24%).,+6% 발사체 (총 24%).
+177,2,+9% projectiles (33%).,+9% 발사체 (총 33%).
+178,0,Brush 2 times that deal 100 damage (3.3 attack speed) (2s cooldown).,100 데미지를 주는 브러시 2회 공격 (공격 속도 3.3) (쿨다운 2초).
+178,1,-0.5s cooldown (1.5s).,쿨다운 0.5초 감소 (1.5초).
+178,2,+100 damage (200).,+100 데미지 (200).
+178,3,+2 strokes (4).,+2회 브러시 공격 (4회).
+178,4,-0.5s cooldown (1s).,쿨다운 0.5초 감소 (1초).
+178,5,+100 damage (300).,+100 데미지 (300).
+178,6,+2 strokes (6).,+2회 브러시 공격 (6회).
+179,0,Paint gains effects and unlock Green. Red burns. Yellow Stuns. Blue slows. Green heals.,페인트가 효과를 얻고 초록색을 해금합니다. 빨간색은 화상을 입힙니다. 노란색은 기절시킵니다. 파란색은 감속시킵니다. 초록색은 치유합니다.
+179,1,Unlock Purple. Purple poisons.,보라색을 해금합니다. 보라색은 중독시킵니다.
+179,2,Unlock White. White critically hits.,흰색을 해금합니다. 흰색은 치명타를 입힙니다.
+180,0,+0.4 Broad Strokes attack speed (3.7),광역 타격 공격 속도 +0.4 (3.7)
+180,1,+0.6 Broad Strokes attack speed (4.3).,광역 타격 공격 속도 +0.6 (4.3)
+180,2,+0.8 Broad Strokes attack speed (5.1).,광역 타격 공격 속도 +0.8 (5.1)
+181,0,+10% move speed while on paint.,페인트 위에서 이동 속도 +10% 증가.
+181,1,+2.5% move speed (+12.5%).,이동 속도 +2.5% 증가 (총 +12.5%).
+181,2,+2.5% move speed (+15%).,이동 속도 +2.5% 증가 (총 +15%).
+182,0,+10 defense while on paint.,페인트 위에 있는 동안 방어력 +10 증가.
+182,1,+10 defense (+20).,방어력 +10 증가 (총 +20).
+182,2,+10 defense (+30).,방어력 +10 증가 (총 +30).
+183,0,Swing your sword 2 times each dealing 100 damage (2.25s cooldown).,검을 2번 휘둘러 각각 100 데미지를 줍니다 (쿨다운 2.25초).
+183,1,+100 damage (200).,+100 데미지 (200).
+183,2,+1 swing (3).,+1회 휘두르기 (3회).
+183,3,-0.25s cooldown (2s).,-0.25초 쿨다운 (2초).
+183,4,+100 damage (300).,+100 데미지 (300).
+183,5,+1 swing (4).,+1회 휘두르기 (4회).
+183,6,-0.25s cooldown (1.75s).,-0.25초 쿨다운 (1.75초).
+184,0,Brandish shoots a beam that deals 30% Brandish's damage.,브랜디쉬가 빔을 발사하여 브랜디쉬 공격력의 30%에 해당하는 데미지를 준다.
+184,1,+10% damage (40%).,+10% 데미지 (40%).
+184,2,+10% damage (50%).,+10% 데미지 (50%).
+185,0,Dash after using Brandish.,브랜디시 사용 후 대시.
+185,1,Faster dash.,더 빠른 대시.
+185,2,Faster dash.,더욱 빠른 대시.
+186,0,+150 max HP.,최대 체력 +150 증가.
+186,1,+150 max HP (+300).,최대 체력 +300 증가.
+186,2,+150 max HP (+450).,최대 체력 +450 증가.
+187,0,Spawn Boomer that deals 100 damage and collects XP.,100 데미지를 주고 경험치를 수집하는 부머 소환.
+187,1,+100 damage (200). +16px pickup range (+32px).,+100 데미지 (200). +16px 획득 범위 (+32px).
+187,2,+100 damage (300). +16px pickup range (+48px).,+100 데미지 (300). +16px 획득 범위 (+48px).
+190,0,Cast a bobber then fling enemies dealing 100 damage (1s cooldown).,낚시찌를 던진 후 적을 휘둘러 100 데미지를 줍니다 (쿨다운 1초).
+190,1,+100 damage (200).,+100 데미지 (200).
+190,2,+10% size (110%).,+10% 크기 (110%).
+190,3,-0.25s cooldown (0.75s).,-0.25초 쿨다운 (0.75초).
+190,4,+100 damage (300),+100 데미지 (300).
+190,5,+10% size (120%).,+10% 크기 (120%).
+190,6,-0.5s cooldown (0.5s).,-0.5초 쿨다운 (0.5초).
+191,0,+100 Cast damage.,시전 데미지 +100 증가.
+191,1,+100 Cast damage (+200).,시전 데미지 +100 증가 (총 +200).
+191,2,+100 Cast damage (+300).,시전 데미지 +100 증가 (총 +300).
+192,0,+10% Cast size (+10%).,시전 범위 10% 증가 (+10%).
+192,1,+10% Cast size (+20%).,시전 범위 10% 증가 (+20%).
+192,2,+10% Cast size (+30%).,시전 범위 10% 증가 (+30%).
+193,0,Spawn 1 fish lasting 10s that can be caught with Cast and spawns shrimp that heals 50 HP (15s cooldown).,"10초 동안 지속되는 물고기 1마리 소환. 낚시로 잡을 수 있으며, 50 HP를 회복시키는 새우를 생성 (쿨다운 15초)."
+193,1,It is now possible to catch cod that heals 70 HP.,70 HP를 회복시키는 대구를 잡을 수 있게 됩니다.
+193,2,It is now possible to catch shark that heals 100 HP.,100 HP를 회복시키는 상어를 잡을 수 있게 됩니다.
+194,0,+30px Cast range.,시전 거리 30px 증가.
+194,1,+30px Cast range (+60px).,시전 거리 30px 증가 (총 60px).
+194,2,+30px Cast range (+90px).,시전 거리 30px 증가 (총 90px).
+201,0,Shoot 3 energy blasts each dealing 100 damage (8.5 attack speed) (1.8s cooldown).,100 데미지를 주는 에너지 폭발 3발 발사 (공격 속도 8.5) (쿨다운 1.8초).
+201,1,+50 damage (150).,+50 데미지 (150).
+201,2,+1.5 attack speed (10).,+1.5 공격 속도 (10).
+201,3,-0.2s cooldown (1.6).,-0.2초 쿨다운 (1.6초).
+201,4,+50 damage (200).,+50 데미지 (200).
+201,5,+2 attack speed (12).,+2 공격 속도 (12).
+201,6,-0.2s cooldown (1.4).,-0.2초 쿨다운 (1.4초).
+202,0,Right click/trigger to return to an earlier position up to 0.5s and knock back enemies (10s cooldown).,우클릭/트리거로 최대 0.5초 전의 위치로 되돌아가며 적들을 밀쳐냅니다 (쿨다운 10초).
+202,1,+0.5s time window (1s).,+0.5초 시간 창 (1초).
+202,2,+0.5s time window (1.5s).,+0.5초 시간 창 (1.5초).
+203,0,Nearby enemies are slowed by 30%.,주변의 적들의 이동 속도가 30% 감소합니다.
+203,1,+40% size (140%).,+40% 크기 증가 (140%).
+203,2,+40% size (180%).,+40% 크기 증가 (180%).
+204,0,+5% haste.,공격 속도 5% 증가.
+204,1,+5% haste (+10%).,공격 속도 10% 증가.
+204,2,+10% haste (+20%).,공격 속도 20% 증가.
+205,0,Energy blasts now explode dealing 50% damage to nearby enemies.,에너지 폭발이 이제 폭발하여 주변 적들에게 50% 데미지를 줍니다.
+205,1,+25% damage (75%). +10% size (110%).,+25% 데미지 (75%). +10% 크기 (110%).
+205,2,+25% damage (100%). +10% size (120%).,+25% 데미지 (100%). +10% 크기 (120%).
+206,0,Swing a bat that deals 100 damage and knocks back enemies (3s cooldown). Unaffected by generic haste.,100 데미지를 주고 적을 밀쳐내는 배트를 휘두릅니다 (쿨다운 3초). 일반적인 가속 효과의 영향을 받지 않습니다.
+206,1,-0.5s cooldown (2.5s).,쿨다운 0.5초 감소 (2.5초).
+206,2,+20% knockback (120%).,넉백 20% 증가 (120%).
+206,3,+100 damage (200).,데미지 100 증가 (200).
+206,4,-0.5s cooldown (2.0s).,쿨다운 0.5초 추가 감소 (2.0초).
+206,5,+20% knockback (140%).,넉백 20% 추가 증가 (140%).
+206,6,+200 damage (400).,데미지 200 증가 (400).
+207,0,Taking damage resets Heavy Hitter's cooldown and grants it 100% haste for 4s.,피해를 받으면 헤비 히터의 쿨다운이 초기화되고 4초 동안 100% 가속을 얻습니다.
+207,1,+2s duration (6s).,+2초 지속 시간 (6초).
+207,2,+2s duration (8s).,+2초 지속 시간 (8초).
+208,0,Enemies now have a 30% chance to drop cash. Each stack of cash absorbs 10 damage (max 5).,이제 적들이 30% 확률로 현금을 떨어뜨립니다. 각 현금 더미는 10의 피해를 흡수합니다 (최대 5개).
+208,1,+5 max cash (10).,+5 최대 현금 (10개).
+208,2,+5 max cash (15).,+5 최대 현금 (15개).
+209,0,Heavy Hitter now applies a nail stack. Heavy Hitter deals +30% damage per nail stack.,헤비 히터가 이제 못 중첩을 적용합니다. 헤비 히터는 못 중첩당 +30% 추가 피해를 줍니다.
+209,1,+10% damage (+40%) per nail stack.,못 중첩당 +10% 추가 피해 (총 +40%).
+209,2,+10% damage (+50%) per nail stack.,못 중첩당 +10% 추가 피해 (총 +50%).
+210,0,+2.5% move speed.,이동 속도 +2.5% 증가.
+210,1,+2.5% move speed (+5%).,이동 속도 +2.5% 증가 (총 5%).
+210,2,+2.5% move speed (+7.5%).,이동 속도 +2.5% 증가 (총 7.5%).
+213,0,Shoot 3 water balls that splash dealing 100 damage each.,100 데미지를 주는 물방울 3개를 발사하여 튀기며 공격합니다.
+213,1,+25% size (125%).,+25% 크기 증가 (125%).
+213,2,+1 water ball (4).,+1 물방울 (4개).
+213,3,+50 damage (150).,+50 데미지 (150).
+213,4,+25% size (150%).,+25% 크기 증가 (150%).
+213,5,+1 water ball (5).,+1 물방울 (5개).
+213,6,+50 damage (200).,+50 데미지 (200).
+214,0,Emit 7 water balls in a circle around you (7s cooldown).,당신의 주위로 원형으로 7개의 물방울을 발사합니다 (쿨다운 7초).
+214,1,+7 waterballs (14).,+7 물방울 (총 14개).
+214,2,+7 waterballs (21).,+7 물방울 (총 21개).
+215,0,Enemies have a 20% chance to spawn a sapling on kill. Watering the sapling will make it bloom and deal damage to nearby enemies.,적을 처치할 때 20% 확률로 묘목이 생성됩니다. 묘목에 물을 주면 꽃을 피워 주변 적들에게 피해를 줍니다.
+215,1,+15% chance to plant a sapling on kill (35%).,+15% 확률로 적 처치 시 묘목 생성 (35%).
+215,2,+15% chance to plant a sapling on kill (50%).,+15% 확률로 적 처치 시 묘목 생성 (50%).
+216,0,Plant a seed that grows for 20s into a crop that heals 30 HP (10s cooldown). Water balls accelerate growth.,20초 동안 자라나 30 HP를 회복시키는 작물이 되는 씨앗을 심습니다 (쿨다운 10초). 물 구체가 성장을 가속화합니다.
+216,1,Fruit heals +10 HP (40).,열매가 +10 HP를 추가로 회복시킵니다 (40).
+216,2,Fruit heals +10 HP (50).,열매가 +10 HP를 추가로 회복시킵니다 (50).
+217,0,Spawn Haku that deals 100 damage and collects XP (16px).,100 데미지를 주고 경험치를 수집하는 하쿠 소환 (16px).
+217,1,+100 damage (200). +16px pickup range (32px).,+100 데미지 (200). +16px 획득 범위 (32px).
+217,2,+100 damage (300). +16px pickup range (48px).,+100 데미지 (300). +16px 획득 범위 (48px).
+222,0,Shoot 4 bolts that deal 100 damage each (3s cooldown).,100 데미지를 주는 볼트 4개 발사 (쿨다운 3초).
+222,1,+50 damage (150).,+50 데미지 (150).
+222,2,-0.25s cooldown.,쿨다운 0.25초 감소.
+222,3,+1 bolt (5).,+1 볼트 (5개).
+222,4,+100 damage (250).,+100 데미지 (250).
+222,5,-0.25s cooldown (2.5s).,쿨다운 0.25초 감소 (2.5초).
+222,6,+2 bolts (7).,+2 볼트 (7개).
+223,0,Crossbow now fires a volley of 3 bolts at the start of its attack.,석궁이 이제 공격 시작 시 3개의 볼트를 일제히 발사합니다.
+223,1,+2 bolts (5).,+2 볼트 (5개).
+223,2,+2 bolts (7).,+2 볼트 (7개).
+224,0,Toss 3 bottles of holy water that explode dealing 100 damage each (7s cooldown).,성수가 담긴 병 3개를 던져 폭발시킵니다. 각 병은 100 데미지를 줍니다 (쿨다운 7초).
+224,1,+100 damage (200).,+100 데미지 (200).
+224,2,+200 damage (400).,+200 데미지 (400).
+225,0,Crossbow: +10% critical chance.,석궁: 치명타 확률 +10% 증가.
+225,1,Crossbow: +10% critical chance (+20%).,석궁: 치명타 확률 +10% 증가 (총 +20%).
+225,2,Crossbow: +10% critical chance (+30%).,석궁: 치명타 확률 +10% 증가 (총 +30%).
+226,0,Right click/trigger to dash in the direction of movement (5s cooldown).,우클릭/트리거로 이동 방향으로 대시 (쿨다운 5초).
+226,1,-1s cooldown (4s).,쿨다운 1초 감소 (4초).
+226,2,-1s cooldown (3s).,쿨다운 1초 감소 (3초).
+218,0,+1% chance to gain 50 shield on kill (max 200).,처치 시 50의 보호막을 얻을 확률 +1% (최대 200).
+218,1,+1% chance (+2%).,처치 시 50의 보호막을 얻을 확률 +2% (최대 200).
+218,2,+1% chance (+3%).,처치 시 50의 보호막을 얻을 확률 +3% (최대 200).
+218,3,+1% chance (+4%).,처치 시 50의 보호막을 얻을 확률 +4% (최대 200).
+218,4,+1% chance (+5%).,처치 시 50의 보호막을 얻을 확률 +5% (최대 200).
+54,0,Shoot a soda can that deals 100 damage in a cone (4s cooldown).,100 데미지를 주는 소다캔을 원뿔 형태로 발사 (쿨다운 4초).
+54,1,+25% size (125%).,크기 25% 증가 (125%).
+54,2,+100 damage (200).,데미지 100 증가 (200).
+54,3,+1 soda can (2).,소다캔 1개 추가 (2개).
+54,4,+25% size (150%).,크기 25% 증가 (150%).
+54,5,+100 damage (300).,데미지 100 증가 (300).
+54,6,+2 soda cans (4).,소다캔 2개 추가 (4개).
+1,0,Surround yourself with 3 manga that deal 50 damage for 3s (9s cooldown).,3초 동안 50 데미지를 주는 만화책 3권으로 자신을 둘러싸기 (쿨다운 9초).
+1,1,+2 manga (5).,+2권 만화책 (5권).
+1,2,-1s cooldown (8s).,-1초 쿨다운 (8초).
+1,3,+50 damage (100).,+50 데미지 (100).
+1,4,+2 manga (7).,+2권 만화책 (7권).
+1,5,-2s cooldown (7s).,-2초 쿨다운 (7초).
+1,6,+100 damage (200).,+100 데미지 (200).
+29,0,Shoot 3 cards that deal 100 damage with +50% critical chance (5s cooldown).,"100 데미지를 주는 카드 3장 발사, 치명타 확률 +50% (쿨다운 5초)."
+29,1,+100 damage (200).,데미지 +100 (200).
+29,2,+1 enemy hit (2x).,적 관통 +1 (2회 관통).
+29,3,+100 damage (300).,데미지 +100 (300).
+29,4,+2 cards (5).,카드 +2장 (5장).
+29,5,-1s cooldown (4s).,쿨다운 -1초 (4초).
+29,6,+1 enemy hit (3x).,적 관통 +1 (3회 관통).
+13,0,Emit a missile that deals 100 damage (5s cooldown).,100 데미지를 주는 미사일 1개 발사 (쿨다운 5초).
+13,1,+1 missiles (2).,+1 미사일 (총 2개).
+13,2,+100 damage (200).,+100 데미지 (총 200).
+13,3,+7 pierce (10).,+7 관통 (총 10).
+13,4,+2 missiles (4).,+2 미사일 (총 4개).
+13,5,+200 damage (400).,+200 데미지 (총 400).
+13,6,+2 missiles (6).,+2 미사일 (총 6개).
+28,0,Emit a yoyo that deals 200 damage (5s cooldown).,200 데미지를 주는 요요 발사 (쿨다운 5초).
+28,1,+50% size (150%).,크기 50% 증가 (150%).
+28,2,+1 rotation (3).,회전 1회 추가 (3회).
+28,3,+100 damage (300).,데미지 100 증가 (300).
+28,4,+1 rotation (4).,회전 1회 추가 (4회).
+28,5,+50% size (200%).,크기 50% 증가 (200%).
+28,6,+1 rotation (5).,회전 1회 추가 (5회).
+30,0,Place a mine that explodes on contact and deals 200 damage (5s cooldown).,접촉 시 폭발하여 200 데미지를 주는 지뢰 설치 (쿨다운 5초).
+30,1,+1 mine (2).,+1 지뢰 (2개).
+30,2,+25% size (125%).,+25% 크기 (125%).
+30,3,+200 damage (400).,+200 데미지 (400).
+30,4,+1 mine (3).,+1 지뢰 (3개).
+30,5,+25% size (150%).,+25% 크기 (150%).
+30,6,+200 damage (600).,+200 데미지 (600).
+35,0,Emit a basketball that deals 200 damage. Pick it up to throw again (2x) (5s cooldown).,200 데미지를 주는 농구공 발사. 주워서 다시 던질 수 있음 (2회) (쿨다운 5초).
+35,1,+50% size (150%).,+50% 크기 증가 (150%).
+35,2,+2 pickup (4x).,+2회 주워서 던지기 (4회).
+35,3,+100 damage (300).,+100 데미지 증가 (300).
+35,4,+2 pickup (6x).,+2회 주워서 던지기 (6회).
+35,5,+50% size (200%).,+50% 크기 증가 (200%).
+35,6,+300 damage (600).,+300 데미지 증가 (600).
+58,0,Swing a bat that deals 400 damage and knocks back enemies (6s cooldown).,400 데미지를 주고 적을 밀쳐내는 배트 휘두르기 (쿨다운 6초).
+58,1,+200 damage (600).,+200 데미지 (600).
+58,2,+50% size (150%).,+50% 크기 (150%).
+58,3,+200 damage (800).,+200 데미지 (800).
+58,4,+50% knockback (150%).,+50% 넉백 (150%).
+58,5,+200 damage (1000).,+200 데미지 (1000).
+58,6,-1s cooldown (5s).,-1초 쿨다운 (5초).
+84,0,Shoot a photo that deals 150 damage in a cone and stuns for 0.5s (7s cooldown).,150 데미지를 주고 0.5초간 기절시키는 사진을 부채꼴 범위로 촬영 (쿨다운 7초).
+84,1,+150 damage (300).,+150 데미지 (300).
+84,2,+50% size (150%).,+50% 크기 (150%).
+84,3,+0.5s stun duration (1.0s).,+0.5초 기절 지속시간 (1.0초).
+84,4,+300 damage (600).,+300 데미지 (600).
+84,5,+50% size (200%).,+50% 크기 (200%).
+84,6,+1s stun duration (2s).,+1초 기절 지속시간 (2초).
+94,0,5 drops of soju fall that deal 200 damage (7s cooldown).,200 데미지를 주는 소주 방울 5개 낙하 (쿨다운 7초).
+94,1,+5 drops (10).,+5개 방울 (10개).
+94,2,+100 damage (300).,+100 데미지 (300).
+94,3,-2s cooldown (5s).,-2초 쿨다운 (5초).
+94,4,+25% size (125%).,+25% 크기 (125%).
+94,5,+100 damage (400).,+100 데미지 (400).
+94,6,+10 drops (20). +25% size (150%).,+10개 방울 (20개). +25% 크기 (150%).
+95,0,Shoot a star that deals more damage the farther it travels (8s cooldown).,멀리 날아갈수록 더 큰 데미지를 주는 별을 발사합니다 (쿨다운 8초).
+95,1,+1 star (2).,+1 별 (2개).
+95,2,+100% damage (200%).,+100% 데미지 (200%).
+95,3,-2s cooldown (6s).,-2초 쿨다운 (6초).
+95,4,+100% damage (300%).,+100% 데미지 (300%).
+95,5,+1 star (3).,+1 별 (3개).
+95,6,-2s cooldown (4s).,-2초 쿨다운 (4초).
+96,0,Emit 4 tracking music notes that deal 100 damage (4s cooldown).,100 데미지를 주는 추적형 음표 4개 발사 (쿨다운 4초).
+96,1,+100 damage (200).,+100 데미지 (200).
+96,2,+2 notes (6).,+2 음표 (6개).
+96,3,-1s cooldown (3s).,-1초 쿨다운 (3초).
+96,4,+200 damage (400).,+200 데미지 (400).
+96,5,-1s cooldown (2s).,-1초 쿨다운 (2초).
+96,6,+2 notes (8).,+2 음표 (8개).
+97,0,Punch 4 times each dealing 100 damage (6 attack speed) (6s cooldown).,100 데미지를 주는 펀치 4회 발사 (공격 속도 6) (쿨다운 6초).
+97,1,+4 punches (8).,+4회 펀치 (총 8회).
+97,2,+1.5 attack speed (7.5).,+1.5 공격 속도 (총 7.5).
+97,3,+100 damage (200).,+100 데미지 (총 200).
+97,4,+8 punches (16).,+8회 펀치 (총 16회).
+97,5,+2.5 attack speed (10).,+2.5 공격 속도 (총 10).
+97,6,+100 damage (300).,+100 데미지 (총 300).
+98,0,Emit 8 tracking rockets that deal 100 damage (7.5 attack speed) (5s cooldown).,100 데미지를 주는 추적 로켓 8개 발사 (공격 속도 7.5) (쿨다운 5초).
+98,1,+8 rockets (16).,+8 로켓 (16개).
+98,2,+1 attack speed (8.5).,+1 공격 속도 (8.5).
+98,3,+100 damage (200).,+100 데미지 (200).
+98,4,+8 rockets (24).,+8 로켓 (24개).
+98,5,+1.5 attack speed (10).,+1.5 공격 속도 (10).
+98,6,+100 damage (300).,+100 데미지 (300).
+116,0,Stab 5 times each dealing 100 damage with a 50% critical chance (7.5 attack speed) (6s cooldown).,"100 데미지를 주는 찌르기 5회 발사, 각 공격마다 50% 확률로 치명타 (공격 속도 7.5) (쿨다운 6초)."
+116,1,+2 stabs (7).,+2회 찌르기 (총 7회).
+116,2,+2.5 attack speed (10).,+2.5 공격 속도 (총 10).
+116,3,+50 damage (150).,+50 데미지 (총 150).
+116,4,+2 stabs (9).,+2회 찌르기 (총 9회).
+116,5,+5 attack speed (15).,+5 공격 속도 (총 15).
+116,6,+50 damage (200).,+50 데미지 (총 200).
+117,0,Emit 10 tracking music notes that deal 100 damage (6 attack speed) (5s cooldown).,100 데미지를 주는 추적형 음표 10개 발사 (공격 속도 6) (쿨다운 5초).
+117,1,+100 damage (200).,+100 데미지 (200).
+117,2,+5 music notes (15).,+5 음표 (15개).
+117,3,+0.75 attack speed (6.75).,+0.75 공격 속도 (6.75).
+117,4,+200 damage (400).,+200 데미지 (400).
+117,5,+0.75 attack speed (7.5).,+0.75 공격 속도 (7.5).
+117,6,+5 music notes (20).,+5 음표 (20개).
+118,0,Emit 8 petals that deal 100 damage and return (6s cooldown). +20% critical chance on return.,100 데미지를 주고 돌아오는 꽃잎 8개 발사 (쿨다운 6초). 돌아올 때 치명타 확률 20% 증가.
+118,1,+50 damage (150).,+50 데미지 (150).
+118,2,+4 petals (12).,+4 꽃잎 (12개).
+118,3,+10% critical chance on return (30%).,돌아올 때 치명타 확률 10% 추가 증가 (30%).
+118,4,+50 damage (200).,+50 데미지 (200).
+118,5,+4 petals (16).,+4 꽃잎 (16개).
+118,6,+10% petal critical chance on return (40%).,돌아올 때 꽃잎의 치명타 확률 10% 추가 증가 (40%).
+124,0,Emit 5 snowballs that deal 100 damage (2.4 attack speed) (4s cooldown).,100 데미지를 주는 눈덩이 5개 발사 (공격 속도 2.4) (쿨다운 4초).
+124,1,+5 snowballs (10).,+5 눈덩이 (10개).
+124,2,+100 damage (200).,+100 데미지 (200).
+124,3,+0.6 attack speed (3).,+0.6 공격 속도 (3).
+124,4,+10 snowballs (20).,+10 눈덩이 (20개).
+124,5,+200 damage (400).,+200 데미지 (400).
+124,6,-2s cooldown (2s).,-2초 쿨다운 (2초).
+126,0,Throw hotsauce that creates a spill that burns dealing 70 damage and lasts 4s (8s cooldown).,핫소스를 던져 4초간 지속되는 화상 웅덩이를 만들어 70 데미지를 입힙니다 (쿨다운 8초).
+126,1,+20% size (120%).,+20% 크기 (120%).
+126,2,+70 damage (140).,+70 데미지 (140).
+126,3,-2s cooldown (6s).,-2초 쿨다운 (6초).
+126,4,+20% size (140%).,+20% 크기 (140%).
+126,5,+70 damage (210).,+70 데미지 (210).
+126,6,-2s cooldown (4s).,-2초 쿨다운 (4초).
+149,0,Place a block that deals 50 damage and lasts 2s (0.3s cooldown).,50 데미지를 주는 블록을 설치하며 2초간 지속 (쿨다운 0.3초).
+149,1,+50 damage (100).,+50 데미지 (100).
+149,2,+1s duration (3s).,+1초 지속 시간 (3초).
+149,3,+100 damage (200).,+100 데미지 (200).
+149,4,+2s duration (5s).,+2초 지속 시간 (5초).
+149,5,+100 damage (300).,+100 데미지 (300).
+149,6,+2s duration (7s).,+2초 지속 시간 (7초).
+189,0,Use a random generic weapon at rank 1 (6s cooldown).,랭크 1의 무작위 일반 무기 사용 (쿨다운 6초).
+189,1,+1 rank (2).,+1 랭크 (2).
+189,2,+1 rank (3).,+1 랭크 (3).
+189,3,+1 rank (4).,+1 랭크 (4).
+189,4,+1 rank (5).,+1 랭크 (5).
+189,5,+1 rank (6).,+1 랭크 (6).
+189,6,+1 rank (7).,+1 랭크 (7).
+197,0,Launch dense matter that pulls enemies for 1s then implodes dealing 100 damage per enemy (8s cooldown).,1초 동안 적을 끌어당기는 고밀도 물질을 발사한 후 폭발하여 적 1명당 100 데미지를 줍니다 (쿨다운 8초).
+197,1,+20% size (120%).,크기 20% 증가 (120%).
+197,2,+50% speed (150%).,속도 50% 증가 (150%).
+197,3,+1s duration (2s).,지속 시간 1초 증가 (2초).
+197,4,+20% size (140%).,크기 20% 추가 증가 (140%).
+197,5,+50% speed (200%).,속도 50% 추가 증가 (200%).
+197,6,+1s duration (3s).,지속 시간 1초 추가 증가 (3초).
+199,0,Swing a scythe dealing 100 damage with +25% critical chance on hit (8s cooldown).,100 데미지를 주는 낫을 휘둘러 명중 시 치명타 확률 +25% (쿨다운 8초).
+199,1,+100 damage (200).,+100 데미지 (200).
+199,2,5% chance to heal 10 HP on hit.,명중 시 5% 확률로 체력 10 회복.
+199,3,-0.5s cooldown (7.5s).,-0.5초 쿨다운 (7.5초).
+199,4,+100 damage (300).,+100 데미지 (300).
+199,5,+5% chance to heal 10 HP (+10%).,+5% 확률로 체력 10 회복 (+10%).
+199,6,-1.5s cooldown (6s).,-1.5초 쿨다운 (6초).
+200,0,Emit a spirit blade that lasts 4s dealing 30 damage periodically (8s cooldown).,4초 동안 지속되며 주기적으로 30 데미지를 주는 영혼의 검을 발사합니다 (쿨다운 8초).
+200,1,+20 damage (50).,+20 데미지 (50).
+200,2,+10% size (110%).,+10% 크기 (110%).
+200,3,-0.5s cooldown (7.5s).,-0.5초 쿨다운 (7.5초).
+200,4,+20 damage (70).,+20 데미지 (70).
+200,5,+10% size (120%).,+10% 크기 (120%).
+200,6,-1.5s cooldown (6s).,-1.5초 쿨다운 (6초).
+211,0,Slash horizontally dealing 200 damage with 10% execute chance (10s cooldown).,가로로 베어 200 데미지를 주고 10% 확률로 처형 (쿨다운 10초).
+211,1,+10% size (110%).,+10% 크기 (110%).
+211,2,-1s cooldown (9s).,-1초 쿨다운 (9초).
+211,3,+100 damage (300).,+100 데미지 (300).
+211,4,+15% size (125%).,+15% 크기 (125%).
+211,5,-2s cooldown (7s).,-2초 쿨다운 (7초).
+211,6,+200 damage (500).,+200 데미지 (500).
+212,0,Summon a Thunder Blade on the nearest enemy which pulses three times dealing 100 damage (8s cooldown).,가장 가까운 적에게 번개 검을 소환하여 3번 충격을 가해 100 데미지를 줍니다 (쿨다운 8초).
+212,1,-1s cooldown (7s).,쿨다운 1초 감소 (7초).
+212,2,+1 pulse (4).,충격 1회 추가 (4회).
+212,3,+50 damage (150).,데미지 50 증가 (150).
+212,4,-1s cooldown (6s).,쿨다운 1초 감소 (6초).
+212,5,+1 pulse (5).,충격 1회 추가 (5회).
+212,6,+50 damage (200).,데미지 50 증가 (200).
+40,0,+10% damage. -10 defense.,데미지 10% 증가. 방어력 10 감소.
+40,1,+10% damage (20%). -10 defense (-20).,데미지 20% 증가. 방어력 20 감소.
+40,2,+10% damage (30%). -10 defense (-30).,데미지 30% 증가. 방어력 30 감소.
+40,3,+10% damage (40%). -10 defense (-40).,데미지 40% 증가. 방어력 40 감소.
+40,4,+10% damage (50%). -10 defense (-50).,데미지 50% 증가. 방어력 50 감소.
+41,0,+10% critical damage.,치명타 피해 +10% 증가.
+41,1,+10% critical damage (+20%).,치명타 피해 +10% 증가 (총 20%).
+41,2,+10% critical damage (+30%).,치명타 피해 +10% 증가 (총 30%).
+41,3,+10% critical damage (+40%).,치명타 피해 +10% 증가 (총 40%).
+41,4,+10% critical damage (+50%).,치명타 피해 +10% 증가 (총 50%).
+42,0,+20 attack. -50% critical damage.,공격력 +20. 치명타 피해 -50%.
+42,1,+20 attack (+40).,공격력 +20 (총 +40).
+42,2,+20 attack (+60).,공격력 +20 (총 +60).
+42,3,+20 attack (+80).,공격력 +20 (총 +80).
+42,4,+20 attack (+100).,공격력 +20 (총 +100).
+55,0,+5% critical chance.,치명타 확률 +5% 증가.
+55,1,+5% critical chance (+10%).,치명타 확률 +5% 증가 (총 +10%).
+55,2,+5% critical chance (+15%).,치명타 확률 +5% 증가 (총 +15%).
+55,3,+5% critical chance (+20%).,치명타 확률 +5% 증가 (총 +20%).
+55,4,+5% critical chance (+25%).,치명타 확률 +5% 증가 (총 +25%).
+38,0,+1% chance to heal 30 HP on kill.,처치 시 30 HP를 회복할 확률 1% 증가.
+38,1,+1% chance (+2%).,처치 시 30 HP를 회복할 확률 1% 증가 (총 2%).
+38,2,+1% chance (+3%).,처치 시 30 HP를 회복할 확률 1% 증가 (총 3%).
+38,3,+1% chance (+4%).,처치 시 30 HP를 회복할 확률 1% 증가 (총 4%).
+38,4,+1% chance (+5%).,처치 시 30 HP를 회복할 확률 1% 증가 (총 5%).
+48,0,+100 max HP.,최대 체력 100 증가.
+48,1,+100 max HP (+200).,최대 체력 100 증가 (총 200).
+48,2,+100 max HP (+300).,최대 체력 100 증가 (총 300).
+48,3,+100 max HP (+400).,최대 체력 100 증가 (총 400).
+48,4,+100 max HP (+500).,최대 체력 100 증가 (총 500).
+57,0,Heal 2% max HP (10s cooldown).,최대 체력의 2%를 회복 (쿨다운 10초).
+57,1,-1s cooldown (9s).,쿨다운 1초 감소 (9초).
+57,2,-1s cooldown (8s).,쿨다운 1초 감소 (8초).
+57,3,-1s cooldown (7s).,쿨다운 1초 감소 (7초).
+57,4,-1s cooldown (6s).,쿨다운 1초 감소 (6초).
+43,0,+5% move speed.,이동 속도 +5% 증가.
+43,1,+2.5% move speed (+7.5%).,이동 속도 +2.5% 증가 (총 +7.5%).
+43,2,+2.5% move speed (+10%).,이동 속도 +2.5% 증가 (총 +10%).
+43,3,+2.5% move speed (+12.5%).,이동 속도 +2.5% 증가 (총 +12.5%).
+43,4,+2.5% move speed (+15%).,이동 속도 +2.5% 증가 (총 +15%).
+53,0,+16px pickup range.,획득 범위 16px 증가.
+53,1,+16px pickup range (+32px).,획득 범위 16px 증가 (총 32px).
+53,2,+16px pickup range (+48px).,획득 범위 16px 증가 (총 48px).
+53,3,+16px pickup range (+64px).,획득 범위 16px 증가 (총 64px).
+53,4,+16px pickup range (+80px).,획득 범위 16px 증가 (총 80px).
+56,0,+8% haste. -1.5% move speed.,신속 +8%. 이동 속도 -1.5%.
+56,1,+8% haste (+16%). -1.5% move speed (-3%).,신속 +16%. 이동 속도 -3%.
+56,2,+8% haste (+24%). -1.5% move speed (-4.5%).,신속 +24%. 이동 속도 -4.5%.
+56,3,+8% haste (+32%). -1.5% move speed (-6%).,신속 +32%. 이동 속도 -6%.
+56,4,+8% haste (+40%). -1.5% move speed (-7.5%).,신속 +40%. 이동 속도 -7.5%.
+39,0,+10% XP. Consumes after 10 mins to grant +2% damage and heal 20% HP.,경험치 +10% 증가. 10분 후 소비되어 데미지 +2% 증가 및 체력 20% 회복.
+39,1,+10% XP (+20%). Consume: +2% damage (+4%) and +20% HP (40%).,경험치 +10% 증가 (총 20%). 소비 시: 데미지 +2% 증가 (총 4%) 및 체력 20% 회복 (총 40%).
+39,2,+10% XP (+30%). Consume: +2% damage (+6%) and +20% HP (60%).,경험치 +10% 증가 (총 30%). 소비 시: 데미지 +2% 증가 (총 6%) 및 체력 20% 회복 (총 60%).
+39,3,+10% XP (+40%). Consume: +2% damage (+8%) and +20% HP (80%).,경험치 +10% 증가 (총 40%). 소비 시: 데미지 +2% 증가 (총 8%) 및 체력 20% 회복 (총 80%).
+39,4,+10% XP (+50%). Consume: +2% damage (+10%) and +20% HP (100%).,경험치 +10% 증가 (총 50%). 소비 시: 데미지 +2% 증가 (총 10%) 및 체력 20% 회복 (총 100%).
+91,0,+4 defense. Avoiding damage for 20s grants a barrier that negates all damage.,방어력 +4. 20초 동안 피해를 받지 않으면 모든 피해를 무효화하는 보호막 획득.
+91,1,+4 defense (8).,방어력 +4 (총 8).
+91,2,+4 defense (12).,방어력 +4 (총 12).
+91,3,+4 defense (16).,방어력 +4 (총 16).
+91,4,+4 defense (20).,방어력 +4 (총 20).
+91,0,+4 defense. Avoiding damage for 20s grants a barrier that negates all damage.,방어력 +4. 20초 동안 피해를 받지 않으면 모든 피해를 무효화하는 보호막 획득.
+91,1,+4 defense (8).,방어력 +4 (총 8).
+91,2,+4 defense (12).,방어력 +4 (총 12).
+91,3,+4 defense (16).,방어력 +4 (총 16).
+91,4,+4 defense (20).,방어력 +4 (총 20).
+93,0,Spawn a snowman that distracts enemies (20s cooldown).,적들의 주의를 끄는 눈사람 소환 (쿨다운 20초).
+93,1,Snowman +100 HP (300).,눈사람 체력 +100 (300).
+93,2,-5s cooldown (15s).,쿨다운 -5초 (15초).
+93,3,Snowman +100 HP (400).,눈사람 체력 +100 (400).
+93,4,-5s cooldown (10s).,쿨다운 -5초 (10초).
+36,0,Emit a shockwave that knocks back enemies (6s cooldown).,충격파를 방출하여 적을 밀쳐냅니다 (쿨다운 6초).
+36,1,+10% size (110%).,+10% 크기 (110%).
+36,2,-0.5s cooldown (5.5s).,-0.5초 쿨다운 (5.5초).
+36,3,+10% size (120%).,+10% 크기 (120%).
+36,4,-0.5s cooldown (5.0s).,-0.5초 쿨다운 (5.0초).
+109,0,Plant a seed that grows for 20s into a crop that heals 30 HP (20s cooldown).,20초 동안 자라나 30 HP를 회복시키는 작물의 씨앗을 심습니다 (쿨다운 20초).
+109,1,-5s growth time (15s).,성장 시간 -5초 (15초).
+109,2,Crop heals +20 HP (50).,작물의 회복량 +20 HP (50).
+109,3,-5s growth time (10s).,성장 시간 -5초 (10초).
+109,4,Crop heals +20 HP (70).,작물의 회복량 +20 HP (70).
+110,0,+10% equip sizes.,장비 크기 +10% 증가.
+110,1,+5% equip sizes (+15%).,장비 크기 +5% 증가 (총 +15%).
+110,2,+5% equip sizes (+20%).,장비 크기 +5% 증가 (총 +20%).
+110,3,+5% equip sizes (+25%).,장비 크기 +5% 증가 (총 +25%).
+110,4,+5% equip sizes (+30%).,장비 크기 +5% 증가 (총 +30%).
+157,0,+2% Mobmania Coin drop chance on kill.,처치 시 몹매니아 코인 드롭 확률 +2% 증가.
+157,1,+2% chance (+4%).,처치 시 몹매니아 코인 드롭 확률 +2% 증가 (총 +4%).
+157,2,+2% chance (+6%).,처치 시 몹매니아 코인 드롭 확률 +2% 증가 (총 +6%).
+157,3,+2% chance (+8%).,처치 시 몹매니아 코인 드롭 확률 +2% 증가 (총 +8%).
+157,4,+2% chance (+10%).,처치 시 몹매니아 코인 드롭 확률 +2% 증가 (총 +10%).
+188,0,A pet rock that does nothing.,아무것도 하지 않는 애완 돌멩이.
+188,1,It loves you a little more.,당신을 조금 더 사랑합니다.
+188,2,It loves you a little more.,당신을 조금 더 사랑합니다.
+188,3,It loves you a little more.,당신을 조금 더 사랑합니다.
+188,4,It loves you a little more.,당신을 조금 더 사랑합니다.
+221,0,Generic weapons that create multiple projectiles will create 18% more. You can no longer critically strike.,다중 발사체를 생성하는 일반 무기가 18% 더 많은 발사체를 생성합니다. 더 이상 치명타를 발생시키지 않습니다.
+221,1,+6% projectiles (24%).,+6% 발사체 (24%).
+221,2,+9% projectiles (33%).,+9% 발사체 (33%).
+221,3,+12% projectiles (48%).,+12% 발사체 (48%).
+221,4,+15% projectiles (60%).,+15% 발사체 (60%).
+227,0,Deals 100 damage every couple of steps.,몇 걸음마다 100 데미지를 줍니다.
+233,0,Drop 1 Melon that deals 100 damage and drops 1-8 Melon Slices that heal 5 HP each (8s cooldown).,"100 데미지를 주는 멜론 1개를 떨어뜨리고, 각각 5 HP를 회복시키는 멜론 조각 1-8개를 떨어뜨립니다 (쿨다운 8초)."
+233,1,+100 damage (200).,+100 데미지 (200).
+233,2,+25% size (125%).,+25% 크기 (125%).
+233,3,-0.5s cooldown (7.5s).,-0.5초 쿨다운 (7.5초).
+233,4,+100 damage (300).,+100 데미지 (300).
+233,5,+25% size (150%).,+25% 크기 (150%).
+233,6,-0.5s cooldown (7s).,-0.5초 쿨다운 (7초).
+234,0,???.,"234,0,???."
+234,1,???.,"234,1,???."
+234,2,???.,"234,2,???."
+234,3,???.,"234,3,???."
+234,4,???.,"234,4,???."
+234,5,???.,"234,5,???."
+233,6,-0.5s cooldown (7s).,-0.5초 쿨다운 (7초).
+228,0,Deal 100 damage to enemies in range with alternating 1 and 2 beats (2.75s cooldown).,범위 내 적들에게 1박과 2박을 번갈아가며 100 데미지를 주는 공격 (쿨다운 2.75초).
+228,1,+25% size (125%).,+25% 크기 증가 (125%).
+228,2,+2 beats (2 and 3).,+2박 추가 (2박과 3박).
+228,3,+100 damage (200).,+100 데미지 증가 (200).
+228,4,+25% size (150%).,+25% 크기 증가 (150%).
+228,5,+2 beats (3 and 4).,+2박 추가 (3박과 4박).
+228,6,+100 damage (300).,+100 데미지 증가 (300).
+229,0,Sing gets -0.25s cooldown (2.5s).,노래의 쿨다운이 0.25초 감소합니다 (2.5초).
+229,1,-0.25s cooldown (2.25s).,쿨다운이 0.25초 감소합니다 (2.25초).
+229,2,-0.25s cooldown (2s).,쿨다운이 0.25초 감소합니다 (2초).
+230,0,Spawn a spotlight and stand in it to gain +5% guard for 12s (20s cooldown).,스포트라이트를 소환하고 그 안에 서면 12초 동안 방어도 +5% 증가 (쿨다운 20초).
+230,1,+10% damage reduction (15%).,+10% 피해 감소 (총 15%).
+230,2,+10% damage reduction (25%).,+10% 피해 감소 (총 25%).
+231,0,Right click/trigger to cycle between +10% damage/+2.5% move speed/+20 HP regen.,우클릭/트리거로 +10% 데미지/+2.5% 이동 속도/+20 HP 재생 중 선택.
+231,1,+10% damage/+2.5% move speed/+10 HP regen (20%/5%/30).,+10% 데미지/+2.5% 이동 속도/+10 HP 재생 (20%/5%/30).
+231,2,+10% damage/+2.5% move speed/+10 HP regen (30%/7.5%/40).,+10% 데미지/+2.5% 이동 속도/+10 HP 재생 (30%/7.5%/40).
+232,0,Spawn 1 Bodyguard that knocks back nearby enemies (0.5s cooldown).,근처의 적을 밀쳐내는 경호원 1명 소환 (쿨다운 0.5초).
+232,1,+1 Bodyguard (2).,경호원 1명 추가 소환 (총 2명).
+232,2,+1 Bodyguard (3).,경호원 1명 추가 소환 (총 3명).
+236,0,Swing your sword 2 times each dealing 100 damage (2.5s cooldown).,검을 2번 휘둘러 각각 100 데미지를 줍니다 (쿨다운 2.5초).
+236,1,+2% execute chance.,+2% 처형 확률.
+236,2,-0.25s cooldown (2.25s).,-0.25초 쿨다운 (2.25초).
+236,3,+100 damage (200).,+100 데미지 (200).
+236,4,+3% execute chance (5%).,+3% 처형 확률 (5%).
+236,5,-0.25s cooldown (2s).,-0.25초 쿨다운 (2초).
+236,6,+200 damage (400).,+200 데미지 (400).
+237,0,+10 defense.,방어력 +10 증가.
+237,1,+10 defense (+20).,방어력 +10 증가 (총 +20).
+237,2,+10 defense (+30).,방어력 +10 증가 (총 +30).
+238,0,Periodically deal 100 damage to nearby enemies (2.4 attack speed) (10s cooldown).,주기적으로 주변 적들에게 100 데미지 가함 (공격 속도 2.4) (쿨다운 10초).
+238,1,+50 damage (150).,+50 데미지 (150).
+238,2,+50 damage (200).,+50 데미지 (200).
+239,0,+100 max HP. Heal 20 HP (20s cooldown).,최대 체력 100 증가. 체력 20 회복 (쿨다운 20초).
+239,1,+100 max HP (+200). +10 HP (30). -2s cooldown (18s).,최대 체력 100 증가 (총 200). 체력 회복량 10 증가 (총 30). 쿨다운 2초 감소 (18초).
+239,2,+100 max HP (+300). +20 HP (50). -3s cooldown (15s).,최대 체력 100 증가 (총 300). 체력 회복량 20 증가 (총 50). 쿨다운 3초 감소 (15초).
+240,0,3 Rays of Light each strike an enemy dealing damage based on Smite (8s cooldown).,빛의 광선 3개가 각각 적을 강타하여 천벌(Smite) 능력치에 기반한 피해를 줍니다 (쿨다운 8초).
+240,1,+3 Rays of Light (6).,+3 빛의 광선 (6개).
+240,2,+3 Rays of Light (9).,+3 빛의 광선 (9개).
+219,0,Every 100 max HP above 1000 grants +1% damage (max 50%).,최대 체력이 1000을 초과할 때마다 100당 피해량 +1% 증가 (최대 50%).
+219,1,+1% damage (+2%).,피해량 +1% 증가 (총 +2%).
+219,2,+1% damage (+3%).,피해량 +1% 증가 (총 +3%).
+219,3,+1% damage (+4%).,피해량 +1% 증가 (총 +4%).
+219,4,+1% damage (+5%).,피해량 +1% 증가 (총 +5%).
+241,0,Critical hits grant 1 focus stack (max 20) that lasts 1s. Each stack grants 1% critical damage.,치명타 적중 시 1초간 지속되는 집중력 중첩을 1 획득합니다(최대 20중첩). 각 중첩당 치명타 피해가 1% 증가합니다.
+241,1,+20 max focus stacks (max 40).,+20 최대 집중력 중첩(최대 40중첩).
+241,2,+20 max focus stacks (max 60).,+20 최대 집중력 중첩(최대 60중첩).
+241,3,+20 max focus stacks (max 80).,+20 최대 집중력 중첩(최대 80중첩).
+241,4,+20 max focus stacks (max 100).,+20 최대 집중력 중첩(최대 100중첩).
+242,0,Cast a magical blast on the healthiest enemy dealing 100 damage (8s cooldown).,체력이 가장 높은 적에게 마법 폭발을 발사하여 100 데미지를 줍니다 (쿨다운 8초).
+242,1,Deal an additional 5 damage per your level.,당신의 레벨당 추가로 5 데미지를 줍니다.
+242,2,-1s cooldown (7s).,쿨다운 1초 감소 (7초).
+242,3,+100 damage (200).,+100 데미지 (200).
+242,4,+5 damage per your level (10).,레벨당 데미지 5 증가 (10).
+242,5,-2s cooldown (5s).,쿨다운 2초 감소 (5초).
+242,6,+200 damage (400).,+200 데미지 (400).
+235,0,Release the Evil Eye for 5s and deal 40 burn damage to enemies within sight (12s cooldown).,5초 동안 사악한 눈을 풀어 시야 내의 적들에게 40의 화상 데미지를 줍니다 (쿨다운 12초).
+235,1,+10% size (110%).,+10% 크기 (110%).
+235,2,-1s cooldown (11s).,-1초 쿨다운 (11초).
+235,3,+40 damage (80).,+40 데미지 (80).
+235,4,+10% size (120%).,+10% 크기 (120%).
+235,5,-1s cooldown (10s).,-1초 쿨다운 (10초).
+235,6,+40 damage (120).,+40 데미지 (120).
+248,0,Stab 4 times each dealing 150 damage (4.25 attack speed) (3.5s cooldown).,150 데미지를 주는 찌르기 4회 발사 (공격 속도 4.25) (쿨다운 3.5초).
+248,1,+0.75 attack speed (5).,+0.75 공격 속도 (5).
+248,2,+2 stabs (6).,+2 찌르기 (6회).
+248,3,+50 damage (200).,+50 데미지 (200).
+248,4,+1 attack speed (6).,+1 공격 속도 (6).
+248,5,+2 stabs (8).,+2 찌르기 (8회).
+248,6,+50 damage (250).,+50 데미지 (250).
+249,0,Enemies have a chance to drop a dish that grants one stack (max 50). Each stack grants +0.1% haste. Lose 50% stacks when hit.,적들이 접시를 떨어뜨릴 확률이 있습니다. 접시를 획득하면 1개의 중첩을 얻습니다 (최대 50개). 각 중첩당 신속도가 0.1% 증가합니다. 피격 시 중첩의 50%를 잃습니다.
+249,1,+25 max dish stacks (75).,+25 최대 접시 중첩 (75개).
+249,2,+25 max dish stacks (100).,+25 최대 접시 중첩 (100개).
+250,0,Emit a sponge that rotates around you dealing Cutlery damage and removes hazardous terrain (5s cooldown).,당신 주위를 회전하는 스펀지를 발사하여 식기 데미지를 주고 위험한 지형을 제거합니다 (쿨다운 5초).
+250,1,+1 rotation (2).,+1회 회전 (총 2회).
+250,2,+1 rotation (3).,+1회 회전 (총 3회).
+251,0,Right click/trigger to throw Pudding that heals gives a speed boost and removes negative status effects (12s cooldown).,우클릭/트리거로 푸딩을 던져 체력을 회복시키고 이동 속도를 증가시키며 부정적인 상태 효과를 제거합니다 (쿨다운 12초).
+251,1,-2s cooldown (10s).,쿨다운 2초 감소 (10초).
+251,2,-3s cooldown (7s).,쿨다운 3초 감소 (7초).
+252,0,Avoid damage after getting hit for 5 seconds to slowly recover some missing HP.,피격 후 5초 동안 피해를 받지 않으면 잃은 체력을 천천히 회복합니다.
+252,1,Increased HP recovery speed.,체력 회복 속도가 증가합니다.
+252,2,Increased HP recovery speed.,체력 회복 속도가 더욱 증가합니다.
+253,0,Slash 2 times each dealing 100 damage (2.5s cooldown).,100 데미지를 주는 베기 공격 2회 발사 (쿨다운 2.5초).
+253,1,+50 damage (150).,+50 데미지 (150).
+253,2,+2 slashes (4).,+2회 베기 공격 (4회).
+253,3,-0.25s cooldown (2.25s).,-0.25초 쿨다운 (2.25초).
+253,4,+1 attack speed (6).,+1 공격 속도 (6).
+253,5,+2 slashes (6).,+2회 베기 공격 (6회).
+253,6,-0.25s cooldown (2s).,-0.25초 쿨다운 (2초).
+254,0,Summon a mirror image that mimics your skills dealing 20% damage.,당신의 스킬을 모방하는 거울 분신을 소환합니다. 분신은 20% 데미지를 줍니다.
+254,1,+10% damage (30%).,+10% 데미지 (30%).
+254,2,+20% damage (50%).,+20% 데미지 (50%).
+255,0,Avoid damage for 30s to become shrouded. +5% critical chance. +2% movespeed. Benefits are doubled while shrouded.,30초 동안 피해를 받지 않으면 은신 상태가 됩니다. 치명타 확률 +5%. 이동 속도 +2%. 은신 상태일 때 모든 효과가 2배로 증가합니다.
+255,1,+5% critical chance (+10%). +2% movespeed (+4%).,치명타 확률 +5% (은신 시 +10%). 이동 속도 +2% (은신 시 +4%).
+255,2,+10% critical chance (+20%). +2% movespeed (+6%).,치명타 확률 +10% (은신 시 +20%). 이동 속도 +2% (은신 시 +6%).
+256,0,Right click/trigger to dash to your cursor dealing 100 damage and stunning for 1s (3s cooldown).,우클릭/트리거로 커서 위치로 대시하여 100 데미지를 주고 1초간 기절시킵니다 (쿨다운 3초).
+256,1,+100 damage (200).,+100 데미지 (200).
+256,2,+100 damage (300).,+100 데미지 (300).
+257,0,Taking damage drops a smoke screen that lasts 4s and grants invicibility (30s cooldown).,피해를 받으면 4초간 지속되는 연막을 뿌리고 무적 상태가 됩니다 (쿨다운 30초).
+257,1,+1s duration (5s).,+1초 지속 시간 (5초).
+257,2,+1s duration (6s).,+2초 지속 시간 (6초).
+258,0,Spray bullets in a cone dealing 80 damage periodically over 3s (4 attack speed) (9s cooldown).,3초 동안 주기적으로 80 데미지를 주는 총알을 원뿔 형태로 발사 (공격 속도 4) (쿨다운 9초).
+258,1,+40 damage (120).,+40 데미지 (120).
+258,2,-0.5s cooldown (8.5s).,-0.5초 쿨다운 (8.5초).
+258,3,+0.5s duration (3.5s).,+0.5초 지속 시간 (3.5초).
+258,4,+40 damage (160).,+40 데미지 (160).
+258,5,-0.5s cooldown (8s).,-0.5초 쿨다운 (8초).
+258,6,+0.5s duration (4s).,+0.5초 지속 시간 (4초).
+259,0,Create a blizzard that lasts 5s and deals 50 damage periodically with a 5% freeze chance (7s cooldown).,5초간 지속되는 눈보라를 생성하여 주기적으로 50 데미지를 주고 5% 확률로 빙결시킵니다 (쿨다운 7초).
+259,1,+10% freeze chance (15%).,빙결 확률 +10% (15%).
+259,2,-0.5s cooldown (6.5s).,쿨다운 -0.5초 (6.5초).
+259,3,+25 damage (75).,데미지 +25 (75).
+259,4,+10% freeze chance (20%).,빙결 확률 +10% (20%).
+259,5,-0.5s cooldown (6s).,쿨다운 -0.5초 (6초).
+259,6,+25 damage (100).,데미지 +25 (100).
+260,0,Create a chill that lasts 5s and deals 50 damage periodically (8s cooldown).,5초간 지속되는 한기를 생성하여 주기적으로 50 데미지를 줍니다 (쿨다운 8초).
+260,1,+10% chance to freeze on hit (10%).,명중 시 10% 확률로 적을 빙결시킵니다 (10%).
+260,2,-1s cooldown (7s).,쿨다운이 1초 감소합니다 (7초).
+261,0,+0.5s Blizzard and Chill freeze duration (1.5s).,눈보라와 냉기의 빙결 지속시간 +0.5초 (1.5초).
+261,1,+0.5s Blizzard and Chill freeze duration (2s).,눈보라와 냉기의 빙결 지속시간 +0.5초 (2초).
+261,2,+0.5s Blizzard and Chill freeze duration (2.5s).,눈보라와 냉기의 빙결 지속시간 +0.5초 (2.5초).
+262,0,Frozen enemies take 50% more damage from Blizzard and Chill (150%).,얼어붙은 적은 눈보라와 냉기로부터 50% 더 많은 피해를 받습니다 (150%).
+262,1,+50% Blizzard and Chill damage to frozen enemies (200%).,얼어붙은 적이 눈보라와 냉기로부터 받는 피해 +50% (200%).
+262,2,+100% Blizzard and Chill damage to frozen enemies (300%).,얼어붙은 적이 눈보라와 냉기로부터 받는 피해 +100% (300%).
+263,0,+5% Blizzard and Chill freeze chance (+5%).,블리자드와 냉기의 빙결 확률 +5% 증가 (총 +5%).
+263,1,+5% Blizzard and Chill freeze chance (+10%).,블리자드와 냉기의 빙결 확률 +5% 증가 (총 +10%).
+263,2,+5% Blizzard and Chill freeze chance (+15%).,블리자드와 냉기의 빙결 확률 +5% 증가 (총 +15%).
+264,0,Shoot 3 bullets that deal 300 damage. Right click/trigger at the right time to Power-reload and reduce the cooldown. (4s cooldown).,300 데미지를 주는 총알 3발 발사. 적절한 타이밍에 우클릭/트리거를 눌러 파워 재장전하여 쿨다운 감소. (쿨다운 4초)
+264,1,+0.1 attack speed (0.6).,+0.1 공격 속도 (0.6)
+264,2,+1 bullet (4).,+1 총알 (4발)
+264,3,+100 damage (400).,+100 데미지 (400)
+264,4,+0.15 attack speed (0.75).,+0.15 공격 속도 (0.75)
+264,5,+1 bullet (5).,+1 총알 (5발)
+264,6,+100 damage (500).,+100 데미지 (500)
+265,0,Increase the Power-reload success range by 100%.,파워 재장전 성공 범위를 100% 증가시킵니다.
+265,1,+50% Power-reload success range (150%).,파워 재장전 성공 범위를 50% 추가로 증가시킵니다 (총 150%).
+265,2,+50% Power-reload success range (200%).,파워 재장전 성공 범위를 50% 추가로 증가시킵니다 (총 200%).
+266,0,Successful Power-reloading will make the next clip of bullets deal +25% damage (125%).,성공적인 파워 재장전 시 다음 탄창의 총알이 +25% 추가 피해를 줍니다 (125%).
+266,1,+25% Power-reload success damage (150%).,+25% 파워 재장전 성공 피해 (150%).
+266,2,+50% Power-reload success damage (200%).,+50% 파워 재장전 성공 피해 (200%).
+267,0,Toss 3 traps that stun enemies for 2 seconds (7s cooldown).,2초 동안 적을 기절시키는 함정 3개 투척 (쿨다운 7초).
+267,1,+1 trap (4).,+1 함정 (4개).
+267,2,+1 trap (5).,+1 함정 (5개).
+268,0,+10% move speed while reloading. Successful Power-reloading gives +20% move speed for 0.7s.,재장전 중 이동 속도 10% 증가. 파워 재장전 성공 시 0.7초 동안 이동 속도 20% 증가.
+268,1,+10% move speed while reloading and Power-reloading (+20%/+30%).,재장전 및 파워 재장전 중 이동 속도 10% 증가 (20%/30%).
+268,2,+10% move speed while reloading and Power-reloading (+30%/+40%).,재장전 및 파워 재장전 중 이동 속도 10% 증가 (30%/40%).
